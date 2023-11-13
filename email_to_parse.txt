@@ -1,0 +1,172 @@
+Platform	Sponsor	Pot	Sloc	Starts	Ends
+Sherlock
+
+Seneca Protocol
+
+$40,000 USDC
+
+1,965
+
+9 Nov - 15 UTC
+
+20 Nov - 15 UTC
+
+⏰ 1 Contest Ending Soon
+Platform	Sponsor	Pot	Sloc	Starts	Ends
+Hats
+
+Hats Finance
+
+$20,000 USDC
+
+3,148
+
+26 Oct - 15 UTC
+
+9 Nov - 16 UTC ⏰
+
+All Contests
+Platform	Sponsor	Pot	Sloc	Starts	Ends
+Hats
+
+Hats Finance
+
+$20,000 USDC
+
+3,148
+
+26 Oct - 15 UTC
+
+9 Nov - 16 UTC ⏰
+
+Hats
+
+Smooth by DappNode
+
+$20,000 DAI
+
+7,705
+
+27 Oct - 15 UTC
+
+10 Nov - 16 UTC
+
+C4
+
+Party Protocol
+
+$60,500 USDC
+
+1,563
+
+31 Oct - 20 UTC
+
+10 Nov - 20 UTC
+
+C4
+
+NextGen
+
+$49,250 USDC
+
+918
+
+30 Oct - 20 UTC
+
+13 Nov - 20 UTC
+
+Sherlock
+
+Perennial V2 Update #1
+
+$71,500 USDC
+
+2,457
+
+30 Oct - 15 UTC
+
+14 Nov - 15 UTC
+
+C4
+
+Badger eBTC Audit + Certora Formal Verification Competition
+
+$149,725 USDC
+
+5,805
+
+24 Oct - 20 UTC
+
+14 Nov - 20 UTC
+
+Hats
+
+Ether.fi
+
+$72,100 USDC
+
+N/A
+
+6 Nov - 14 UTC
+
+16 Nov - 14 UTC
+
+Sherlock
+
+Seneca Protocol
+
+$40,000 USDC
+
+1,965
+
+9 Nov - 15 UTC
+
+20 Nov - 15 UTC
+
+Sherlock
+
+Notional Update #4
+
+$41,500 USDC
+
+1,088
+
+18 Nov - 15 UTC
+
+25 Nov - 15 UTC
+
+Hats
+
+Possum Labs
+
+~ $20,000
+
+N/A
+
+15 Nov - 0 UTC
+
+29 Nov - 0 UTC
+
+Cantina
+
+Morpho
+
+$200,000
+
+2,500
+
+13 Nov - 21 UTC
+
+4 Dec - 21 UTC
+
+C4
+
+ZetaChain
+
+$150,000 USDC
+
+136,645
+
+20 Nov - 20 UTC
+
+18 Dec - 20 UTC
